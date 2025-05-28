@@ -7,9 +7,6 @@
 <hr style="border:none;height:1.5px;background:#111;margin:25px 0;">
 <a href="https://shortlinkapp.com/eqmYL">
   <img src="https://i.ibb.co/5K7Ks6w/zzzz3.gif" alt="Holiganbet Görsel" style="max-width:100%; border-radius:12px;">
-         alt="Kumar Siteleri Görsel" 
-         style="max-width:90%; border:3px solid #8B0000; border-radius:12px; box-shadow:0 0 12px rgba(139,0,0,0.4); margin:15px 0;">
-  </a>
 </div>
 
 <p style="text-align:center; font-size:18px; margin-top:20px;">
